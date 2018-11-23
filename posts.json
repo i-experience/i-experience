@@ -1,15 +1,15 @@
 {
     "jobs": [
         {
-            "company_name": "Event Name",
-            "description": "description description description",
+            "company_name": "Требуются животные, оркестр снеговиков, шоу барабанщиков",
+            "description": "описание описание описание",
             "featured": false,
             "featured_text": "https://i1.sndcdn.com/artworks-000247403384-tz54xs-t500x500.jpg",
             "remote": false,
             "bg": "https://i1.sndcdn.com/artworks-000247403384-tz54xs-t500x500.jpg",
             "term": "#",
             "title": "Event Requirement:",
-            "url": "https://codepen.io/url/job/zwpWXZ",
+            "url": "/post/",
             "hashid": "rzBvgz",
             "address": {
                 "address1": "The Bay Area",
