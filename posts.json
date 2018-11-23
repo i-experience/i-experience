@@ -12,10 +12,10 @@
             "hashid": "rzBvgz",
             "address": {
                 "address1": "The Bay Area",
-                "city": "San Francisco",
+                "city": "City",
                 "state_prov": "CA",
                 "postal_code": "94103",
-                "country": "US"
+                "country": "Country"
             }
         },
         {
@@ -30,10 +30,10 @@
             "hashid": "QzOnYk",
             "address": {
                 "address1": "El Salvador 5137",
-                "city": "Buenos Aires",
+                "city": "City",
                 "state_prov": "BA",
                 "postal_code": "1414",
-                "country": "AR"
+                "country": "Country"
             }
         },
         {
@@ -48,10 +48,10 @@
             "hashid": "OzPMgA",
             "address": {
                 "address1": "",
-                "city": "Boston",
+                "city": "City",
                 "state_prov": "Massachusetts",
                 "postal_code": "02108",
-                "country": "US"
+                "country": "Country"
             }
         },
         {
@@ -66,10 +66,10 @@
             "hashid": "OEgXek",
             "address": {
                 "address1": "197 Clarendon St.",
-                "city": "Boston",
+                "city": "City",
                 "state_prov": "MA",
                 "postal_code": "02116",
-                "country": "US"
+                "country": "Country"
             }
         },
         {
@@ -84,10 +84,10 @@
             "hashid": "oAGPDE",
             "address": {
                 "address1": "Karl-Liebknecht Straße 8",
-                "city": "Leipzig",
+                "city": "City",
                 "state_prov": "",
                 "postal_code": "04107",
-                "country": "DE"
+                "country": "Country"
             }
         },
         {
@@ -102,10 +102,10 @@
             "hashid": "nEmaaE",
             "address": {
                 "address1": "Speditionstr. 5",
-                "city": "Düsseldorf",
+                "city": "City",
                 "state_prov": "",
                 "postal_code": "40221",
-                "country": "DE"
+                "country": "Country"
             }
         },
         {
@@ -120,10 +120,10 @@
             "hashid": "WEReqA",
             "address": {
                 "address1": "70 Lincoln Center Plaza",
-                "city": "New York",
+                "city": "City",
                 "state_prov": "NY",
                 "postal_code": "10023",
-                "country": "US"
+                "country": "Country"
             }
         },
         {
@@ -138,10 +138,10 @@
             "hashid": "rAYJOE",
             "address": {
                 "address1": "910 W Van Buren, Suite 201",
-                "city": "Chicago",
+                "city": "City",
                 "state_prov": "IL",
                 "postal_code": "60607",
-                "country": "US"
+                "country": "Country"
             }
         },
         {
@@ -156,10 +156,10 @@
             "hashid": "VAvvVA",
             "address": {
                 "address1": "175 Toyota Plaza",
-                "city": "Memphis",
+                "city": "City",
                 "state_prov": "TN",
                 "postal_code": "38103",
-                "country": "US"
+                "country": "Country"
             }
         },
         {
@@ -174,10 +174,10 @@
             "hashid": "rkYdOE",
             "address": {
                 "address1": "555 Mission Street",
-                "city": "San Francisco",
+                "city": "City",
                 "state_prov": "CA",
                 "postal_code": "94105",
-                "country": "US"
+                "country": "Country"
             }
         },
         {
@@ -192,10 +192,10 @@
             "hashid": "DkVqBE",
             "address": {
                 "address1": "611 Broadway, Suite 430",
-                "city": "New York",
+                "city": "City",
                 "state_prov": "NY",
                 "postal_code": "10012",
-                "country": "US"
+                "country": "Country"
             }
         },
         {
@@ -222,10 +222,10 @@
             "hashid": "JEoJdA",
             "address": {
                 "address1": "1263 Mission St",
-                "city": "San Francisco",
+                "city": "City",
                 "state_prov": "CA",
                 "postal_code": "94103",
-                "country": "US"
+                "country": "Country"
             }
         },
         {
@@ -264,10 +264,10 @@
             "hashid": "vEJwZk",
             "address": {
                 "address1": "300 W 57th Street",
-                "city": "New York",
+                "city": "City",
                 "state_prov": "NY",
                 "postal_code": "10019",
-                "country": "US"
+                "country": "Country"
             }
         },
         {
@@ -282,10 +282,10 @@
             "hashid": "LkxmPz",
             "address": {
                 "address1": "573 KING ST E, Suite 200",
-                "city": "TORONTO",
+                "city": "City",
                 "state_prov": "ON",
                 "postal_code": "M5A1M5",
-                "country": "CA"
+                "country": "Country"
             }
         },
         {
@@ -300,10 +300,10 @@
             "hashid": "JzoxrA",
             "address": {
                 "address1": "850 Veterans Blvd #305",
-                "city": "Redwood City",
+                "city": "City",
                 "state_prov": "California",
                 "postal_code": "94063",
-                "country": "US"
+                "country": "Country"
             }
         }
     ]
