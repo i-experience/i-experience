@@ -1,7 +1,7 @@
 {
     "jobs": [
         {
-            "company_name": "Ivent Name",
+            "company_name": "Event Name",
             "description": "description description description",
             "featured": false,
             "featured_text": "Find the role of your dreams and work with the best companies in Silicon Valley.",
@@ -19,7 +19,7 @@
             }
         },
         {
-            "company_name": "Ivent Name",
+            "company_name": "Event Name",
             "description": "description description description",
             "featured": false,
             "featured_text": "",
@@ -37,7 +37,7 @@
             }
         },
         {
-            "company_name": "Ivent Name",
+            "company_name": "Event Name",
             "description": "description description description",
             "featured": false,
             "featured_text": "",
@@ -55,7 +55,7 @@
             }
         },
         {
-            "company_name": "Ivent Name",
+            "company_name": "Event Name",
             "description": "description description description",
             "featured": true,
             "featured_text": "Come join a fast growing dev team within a global organization! ",
@@ -73,7 +73,7 @@
             }
         },
         {
-            "company_name": "Ivent Name",
+           "company_name": "Event Name",
             "description": "description description description",
             "featured": true,
             "featured_text": "Coding is our poetry!",
@@ -91,7 +91,7 @@
             }
         },
         {
-            "company_name": "Ivent Name",
+           "company_name": "Event Name",
             "description": "description description description",
             "featured": true,
             "featured_text": "Coding is our poetry!",
@@ -109,7 +109,7 @@
             }
         },
         {
-            "company_name": "Ivent Name",
+           "company_name": "Event Name",
             "description": "description description description",
             "featured": false,
             "featured_text": "",
@@ -127,7 +127,7 @@
             }
         },
         {
-            "company_name": "Ivent Name",
+         "company_name": "Event Name",
             "description": "description description description",
             "featured": false,
             "featured_text": "Fast-growing team in Chicago",
@@ -145,7 +145,7 @@
             }
         },
         {
-            "company_name": "Ivent Name",
+         "company_name": "Event Name",
             "description": "description description description",
             "featured": false,
             "featured_text": "",
@@ -163,7 +163,7 @@
             }
         },
         {
-            "company_name": "Ivent Name",
+         "company_name": "Event Name",
             "description": "description description description",
             "featured": false,
             "featured_text": "",
@@ -181,8 +181,8 @@
             }
         },
         {
-            "company_name": "Constructive",
-            "description": "**Sr. Web Developer (Full-Stack/WP), Digital Agency for Social Change**\r\n\r\nConstructive, a leading brand experience design & digital design agency that works exclusively with social impact organizations is looking for an outstanding technical expert and creative thinker to join our team as a Sr. Web Developer.\r\n\r\nIf you’re an experienced technologist who has demonstrated expertise building Wordpress websites that demand a high degree of creative and technical complexity, thrive on being a collaborative problem solver, and believe that the best digital experiences happen when strategy, technology, and design work together, then we’d love to hear from you. And if you care deeply about issues like climate change, social justice, and economic equality—and want to work on interesting projects that make a meaningful positive impact on them—then we think you’ll love working with us and our clients.\r\n\r\n\r\n**A bit about the role**\r\n\r\nSr. Web Developers at Constructive need great expertise both in creating powerful back-end publishing systems and in elegant front-end digital experiences. They need to write code that’s semantically sound and adheres to current best practices. They must be proactive thinkers who are always looking to bring new ideas to the table and improve how we work. And they must thrive on working collaboratively in multi-disciplinary teams. \r\n\r\n**A bit about us**\r\n\r\nWe’re a diverse, close-knit bunch who are serious about having fun producing exceptional work. We play to win—for our clients, for ourselves, and for the world. We’ve got each other’s backs. We have high expectations and the work ethic to match them. And we’re all together in the same open office, so there’s music and a lot of joking mixed-in with being heads-down on work.\r\n\r\n**A bit about diversity**\r\n\r\nWe believe strongly that diversity is one of our greatest strengths—that the more perspectives we bring to the mix, the better we are as people and the better partner we are for our clients. So, in considering if Constructive is a good fit for you, know that all we care about is that you’re qualified to do the job, share most or all of our values, and want to be here. These are the things we’ll be evaluating for every applicant.\r\n\r\n**What we need you to do extremely well**\r\n\r\nWe’re looking for a developer who’s eager to play a leading role in Constructive’s digital practice. We’ll need you to have strong demonstrated success having done all or most of the following things for at least 3-5 years—and a passion for doing them extremely well. \r\n\r\n- Understand the web development landscape, contributing significantly to creating internal technology strategies that align with broader brand strategy.\r\n\r\n- Collaborate across teams to plan and execute ambitious digital projects.\r\n\r\n- Develop backend and frontend, taking ownership of your projects from start to finish.\r\n\r\n- Participate in QA/UAT testing to ensure that what we deliver is what we promised—and that it lives up to our standards.\r\n\r\n- Document your work to make it easier for other developers, both now and in the future, to work with what you’ve built.\r\n\r\n- Improve best practices, recommend tools, and build technical frameworks that make our work more efficient, effective, and technically front-of-field.\r\n\r\n- Contribute to ongoing development and support for existing websites.\r\n\r\n- Contribute to developing proposals and estimates for projects you will be a lead developer.\r\n\r\n- Be a team player who has a bias towards listening, takes serious pride in their work, and is always looking for our process and results to be better the next time out. \r\n\r\n- Have a sense of humor. Seriously, life can be stressful enough these days.\r\n\r\n**Expertise that’s important in our work**\r\n\r\nRight now, these are the specific technologies and tasks that are essential to our work (which we always remain open to evaluating and evolving). We’ll need you to have about 5 years of professional experience in most of these things.\r\n\r\n- Expert-level Wordpress Development (Min 3 years experience)\r\n\r\n- Expert CSS chops (and SCSS!)\r\n\r\n- Strong front-end development experience (experience with at least 1 Javascript framework: React, Angular, Vue)\r\n\r\n- Strong preprocessor experience (Webpack / Gulp)\r\n\r\n- Strong Git experience\r\n\r\n- Experience with MySQL\r\n\r\n- Experience executing third-party integrations (Salesforce, Mailchimp, Blackbaud, Fluxx, Google Maps API, etc.)\r\n\r\n- Comfortable with D3\r\n\r\n- Comfortable with AWS\r\n\r\n- Comfortable with Server Administration & DevOps\r\n\r\n**What’s in it for you?**\r\n\r\nWe do our best to make sure everyone at Constructive is taken care of with a great mix of salary, benefits and perks, opportunities for professional growth, and a healthy dose of time off. We also always reward individual initiative and outsized contributions to our collective success. Along with your base salary, here are the benefits and perks we have on tap at Constructive for 2018-2019 to add to this:\r\n\r\n**Benefits & Perks**\r\n\r\n- Health, Dental & Vision Insurance\r\n\r\n- 401K plan with 4% company match\r\n\r\n- Annual profit sharing bonus+performance bonuses (no less than 10% of company profit split equally by all employees as profit sharing)\r\n\r\n- 2 weeks paid vacation (+1 additional day per year)\r\n\r\n- Paid vacation between Christmas & New Year's\r\n\r\n- 1/2-day Summer Fridays (Approx 16 days)\r\n\r\n- 1 week paid personal/sick days\r\n\r\n- Unlimited work-from-home days (within reason!) after 6 months\r\n\r\n- Monthly employee-voted gift card awards\r\n\r\n- TransitChek (pay for transit w/ pre-tax $)\r\n\r\n- Discounted Company Cell Phone Plan\r\n\r\n- $1K annual professional development stipend\r\n\r\n- New client bonus (2.5% of largest contract in year 1 for any non-inbound client)\r\n\r\n- Coffee, healthy snacks, soda\r\n\r\n- Company lunch every Wednesday\r\n\r\n- Weekly Happy Hr (every non-summer Friday)\r\n\r\n- Bi-monthly Company Events (sporting events, bowling, holiday party, etc)\r\n\r\n- The feeling of satisfaction knowing that your work is helping make the world a better place.\r\n\r\n**Interested? Great! Then please send an email to titled “Senior Web Developer” to jobs@constructive.co with the following**\r\n\r\n- A resume\r\n\r\n- A cover letter telling us a bit about you and what excites you about joining our team\r\n\r\n- Links to your own website, websites you’ve worked on, github, whatever\r\n\r\n- Desired salary (freelance rate for those interested in consulting with us)",
+         "company_name": "Event Name",
+            "description": "description description description",
             "featured": false,
             "featured_text": "",
             "remote": false,
@@ -199,8 +199,8 @@
             }
         },
         {
-            "company_name": "Conversion Rate Experts",
-            "description": "",
+         "company_name": "Event Name",
+            "description": "description description description",
             "featured": true,
             "featured_text": "Join our remote team to design and build pages for the world’s best companies.",
             "remote": true,
@@ -211,8 +211,8 @@
             "address": null
         },
         {
-            "company_name": "Ueno",
-            "description": "[Ueno](https://ueno.co) is hiring a Technical Director for our San Francisco office.\r\n\r\n---\r\n\r\nSo. You’re a tech gal. Or a tech guy. A tech person. Whatever. You’ve been around the block. You know how projects project, how developers develop, how budgets budget, how clients client. You know all the acronyms, the old ones and the new ones. Not much surprises you anymore. Let’s face it, you’re kind of a big deal. But are you arrogant about it? On the contrary! Has it made you jaded? Don’t be silly.\r\n\r\nYou’ve spent the last few years leading developers into battle at a creative agency, a startup, or a pirate ship. Maybe you’re even there now, reading these very words, wondering if they’re meant for you. (They are.)\r\n\r\nEverybody loves you, obviously. Why? Let’s see.\r\n\r\nDevelopers love you because they can look to you for leadership, guidance, mentoring, and general good cheer. You trust them and they trust you. You may not always have all the answers, but you help figure things out. And you’re not afraid to get your hands dirty when needed.\r\n\r\nDesigners love you because you always dress in black. Just kidding. They love you because you love them, frankly. You know how to mesh tech and dev, and you love experimenting with the two. You make them better at what they do, and they make you better at what you do.\r\n\r\nClients love you because you speak their language. You understand what they’re trying to do, why they’re trying to do it, and how to get it done.\r\n\r\nCEOs love you because you’re not shy about telling them when they’re wrong about something.\r\n\r\nThe rest of us love you because you’re good and friendly human being who knows what you’re talking about, without being an asshole about it. And maybe because you let us win at Rocket League.\r\n\r\nTime for bullet points … Experience. You’ve got it. Technology. You know it. Team. You lead it. Clients. They get you, you get them. Projects. When you’re around they seem to magically get done.\r\n\r\nAnd for your reference, a non-exclusive list of some of the things we’ve tended to work with in the past but are by no means married to: React, Vue, React Native Mobx, Mobx-state-tree and Redux TypeScript, SCSS and PostCSS Jest, Enzyme, and other testing libraries Headless CMSs like Prismic and Contentful GitHub, Heroku, AWS and other CI tools E-Commerce platforms\r\n\r\nSo. What do you think? Sounds like you? Say hi and introduce yourself using the form here below. (Nothing bad will happen.)\r\n\r\nWe will only consider candidates with US work permits. Pursuant to the San Francisco Fair Chance Ordinance we absolutely don’t care if you’ve been arrested or have a conviction record. [Ueno](https://ueno.co) is a firmly committed Equal Opportunity Employer.\r\n\r\n[Apply for this job](https://ueno.co/careers/6R83B6qvcWgUuiUC0MM4cq/technical-director-san-francisco)",
+         "company_name": "Event Name",
+            "description": "description description description",
             "featured": false,
             "featured_text": "",
             "remote": false,
@@ -229,8 +229,8 @@
             }
         },
         {
-            "company_name": "Showcase IDX",
-            "description": "[**Showcase IDX**](https://showcaseidx.com/) is looking for a **Senior Front End Developer** to help us continue to grow and build innovative real estate search and consumer engagement products for real estate agents and brokers. Right now, we have 8 exceptional people on our team and we are looking to grow our business rapidly, but we want to keep the team size relatively small and nimble. \r\n\r\nCurrently we have 1000+ customers using our SaaS WordPress plugin, and we&#39;re looking to ship some really exciting new (non-WordPress) search products in 2019. This is an opportunity to get in right at the start of development of these new platforms. We want your input, we want you constructively add to the product conversation, and have real impact on our product, company and collective futures.\r\n\r\nWe are picky about our code and the way it support our user experience. We want our codebase to be readable, maintainable, performant, reliable, and well-tested. We encourage use of language features to make code more readable, not overly clever. We aggressively code-review each other. We learn from each other, and push each other to get better. We don&#39;t shy away from hard problems; we tackle them. It&#39;s our commitment to this culture that&#39;s allowed us to support 1000+ customers with a small tech support team and allows our product team to focus on the future, not the past.\r\n\r\nWe set a very high bar for ourselves. Think you can clear it?\r\n\r\n**About You**\r\n\r\nYou are a front-end javascript developer with **4+ years of experience.** You have deep experience developing large single-page applications; but also have experience using other dynamic web application languages (ie. Rails).\r\n\r\nYou have a strong analytic mind &amp; problem solving skills. You believe in sustainable &amp; scalable code. You&#39;ve jumped on the **React bandwagon and love to help others understand how it works &amp; teaching them about best practices**. You think **code reviews** are a great practice for both coder and reviewer. You are enthusiastic about **front-end testing and code quality** ; you&#39;re experienced with **writing unit tests, end-to-end tests &amp; code reviews**.\r\n\r\nAs much as you love technology and architecture, you also love &quot; **product**&quot; -- you relish the opportunity to work with the product team and customers to ensure a **surprisingly awesome user experience**. You **ask a lot of questions** and love spirited yet professional debate, knowing it improves outcomes. You understand how to **balance scope with the need to ship** , and believe that continuous improvement is a way of life.\r\n\r\n**Requirements**\r\n\r\n- 4+ years experience with Javascript / HTML / CSS with 2 years focused in React\r\n- Extensive knowledge in Javascript build tools &amp; React\r\n- Experience with design patterns\r\n- Development and Documentation of user-centric design methodologies, style guides, web standards, and CSS/XHTML best practices\r\n- Experience working on large-scale web initiatives &amp; single page web applications\r\n- Understanding of cross-browser compatibility issues\r\n- Deep experience with Javascript (2+ year working in React), HTML5, CSS3 &amp; Sass\r\n- Expertise with Git, Node, Bower, Grunt, Webpack (a plus)\r\n- Enjoy working in ES6 / ES7\r\n- Experience in creating exciting experiences on the iPad, iPhone and other mobile devices that conform to W3C standard\r\n- Excellent Written and Verbal communication skills; strong interpersonal skills\r\n- Results-driven, detail-oriented, self-starter, motivated, with high-level of energy, enthusiasm, and initiative\r\n\r\n**Responsibilities**\r\n\r\n- Deliver awesome, fun, engaging, and reliable solutions\r\n- Collaborate with the team, partners and customers to provide accurate estimations, timelines, costs, and risks associated with development\r\n- Create clear, concise deliverables that communicate your plans and allow the team to successfully execute ideas\r\n- Actively participate in stand-ups, meetings, and design sessions\r\n- Embrace Code Reviews as an opportunity to share your own techniques and improve your skills by learning from others\r\n\r\n\r\n**Opportunity**\r\n\r\n- Amazing work/life balance - sane &amp; flexible work schedule where we expect you to work a 40-45 hours a week. We respect that you have a life and interests outside of work that are just as important as work.\r\n- A minimum vacation policy which encourages you to take longer vacations with no assumptions that you&#39;ll be on call or touch Slack, email, or get contacted unless it&#39;s a dire emergency.\r\n- Work on interesting technical and product challenges in an environment that encourages creativity, fun, and the use of new tools to deliver the best results\r\n- Have the creative freedom for learning, experimenting, and responsible risk-taking in a startup-like environment\r\n- Work closely with a small, talented team with a proven track record and a great culture based on honesty, taking good risks, having each other&#39;s backs, and working smart.\r\n- Be a central part of a product team that iterates constantly and ships regularly\r\n- Work on public-facing products that customers actually pay for and love\r\n- Relaxed work environment conveniently located in Atlanta&#39;s Old Fourth Ward, or remote for the right person.\r\n- We are growing and don&#39;t have any venture capital investors -- this means all of your energy is focused on building great product, not playing politics, we&#39;re building a product and company for the long term, which\r\n- Competitive salary and generous stock option plan\r\n- Great benefits like good health insurance (medical, dental, optical), flexible vacation scheduling, 401K, and paid maternity/paternity leave.\r\n\r\nBonus Points for: Active participation in open-source community (coding, organizing, speaking, bug reporting, pontificating)\r\n\r\n**[Apply for this position](https://showcase-idx.workable.com/jobs/859210 \"Apply For This Position\")**",
+         "company_name": "Event Name",
+            "description": "description description description",
             "featured": false,
             "featured_text": "",
             "remote": true,
@@ -241,8 +241,8 @@
             "address": null
         },
         {
-            "company_name": "Fastspot",
-            "description": "#Back-end Web Developer (Drupal)\r\n[Fastspot](http://www.fastspot.com) is looking for an experienced back-end developer to join our team in building large, complex websites. If you want to work closely with a team who shares your passion for innovation, craftsmanship, and problem solving, please get in touch.\r\n\r\n##About the Job\r\nYour job as a developer at Fastspot will be to work with a team of strategists, designers, and developers to tackle difficult challenges with an eye toward delivering high quality, creative solutions. We are a team full of interdisciplinary creators. No one at Fastspot has just one responsibility. We all have our specialties, but our true strength comes from involving the whole team in all phases of our work. By combining our talents, our clients get the best of everything we have to offer.\r\n\r\nYou will be responsible for: Working with designers and strategists to convert designs and functional requirements into beautiful, highly performant sites; producing well-organized code and elegant CMS architecture solutions; reviewing your team members' code for standards and quality assurance; and making decisions based on best practices and user experience, both from a front-end and back-end focus.\r\n\r\nThe ideal candidate will have talent and creativity, a discerning eye, a strategic mind, a good attitude, and a passion for what we do. We are looking for someone who can speak intelligently about their ideas and decisions and who excels at making those ideas into real, usable, and innovative solutions.\r\n\r\nThis is a full-time position that may be remote or in-house at our Baltimore headquarters depending on the right candidate. We prefer that you’re local to Baltimore (or could be in the future), but please contact us regardless. We won’t turn down the perfect fit if proximity is the only obstacle. Fastspot will consider candidates seeking remote employment who demonstrate a capacity to excel from a remote location. Candidates who wish to be considered for a full-time distributed position should be prepared to explain how they’ve been effective as a remote employee in the past and give examples of the tools or techniques they have used to stay connected with the on-site culture of their previous employer(s). Unfortunately, we are unable to consider applications from international applicants. \r\n\r\n**You should be:**\r\n\r\n- an excellent communicator;\r\n- a good teammate;\r\n- experienced with client-facing communication;\r\n- proficient at technical writing and project planning;\r\n- excited and knowledgeable about emerging technologies;\r\n- motivated to learn new software, methods, and technology;\r\n- able to prioritize tasks and hit deadlines; and\r\n- willing to learn from mistakes and ask for help.\r\n\r\n##Requirements\r\n- Must have 5+ years of relevant experience (e.g. past or current positions at interactive agencies, work on large websites with complex systems)\r\n- Specific experience architecting and building complicated, large-scale Drupal sites/applications (Drupal 8 experience is a must)\r\n- Extensive knowledge of the Drupal 8 API system, including building custom modules and themes\r\n- Experience with Drupal site optimization and caching techniques\r\n- Deep understanding of and extensive experience with developing best practice, unit test driven, object-oriented PHP\r\n- Skilled at relational database systems (preferably MySQL) and writing SQL, HTML, and Javascript  (CSS/SASS are a plus!)\r\n- Experience using PHP frameworks for site/application development (e.g., Symfony 2, Laravel)\r\n- Demonstrated experience building large, complex sites with third-party API integrations\r\n- Portfolio demonstrating your ability to produce well-organized, standards-compliant code\r\n\r\n##Benefits\r\nFastspot offers a full benefits package including:\r\n\r\n- minimum 120 hours of paid time off\r\n- flexible schedule and remote workdays when needed\r\n- generous office closure days around the fall/winter holidays\r\n- 401(k) with company match\r\n- healthcare with vision and dental options at little to no cost to the employee (depending on age)\r\n- company HSA\r\n- employer-paid teledoc service with smartphone app support\r\n- employer-paid life, short-term, and long-term disability insurance policies\r\n- free pool and gym membership at office campus at Mill No. 1\r\n- fully-paid Fastspot fun events throughout the year including the annual company baseball outing, family barbecue, and holiday party\r\n- cute dogs in the office\r\n- complimentary coffee and soft drinks\r\n- pool table, virtual reality, and full bar with draught beer and nitro coffee on tap\r\n- all-gender bathroom\r\n- support for preferred pronouns in HR software and in public-facing communications\r\n- privacy room for nursing mothers\r\n\r\nFastspot is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment regardless of factors such as sex, gender, gender identity and expression, sexual orientation, ability, physical appearance, body size, race, ethnicity, nationality, culture, class, age, or faith.\r\n\r\n##How to Apply\r\nIf you are interested in this full-time position with Fastspot, please fill out our application form at [https://fastspot.bamboohr.com/jobs/view.php?id=44](https://fastspot.bamboohr.com/jobs/view.php?id=44).  Be sure to include your resume and a cover letter. We would love to hear more about why you want the job and why you're the perfect match for us.\r\n\r\nAll communications regarding open positions at Fastspot are sent via an HR software application. **Please whitelist notifications@app.bamboohr.com to help us avoid your spam filter!**\r\n\r\n_We don’t respond to recruiters. We aren’t interested in freelance help. No phone calls, please._",
+         "company_name": "Event Name",
+            "description": "description description description",
             "featured": false,
             "featured_text": "",
             "remote": true,
@@ -253,8 +253,8 @@
             "address": null
         },
         {
-            "company_name": "Hearst",
-            "description": "_Hearst News Digital_ is seeking an experienced _Full Stack Developer_, with a primary focus on Frontend, to join our engineering team who will work closely with a number of stakeholders to build best-in-class digital news and advertising products viewed by millions of readers every day. \r\n\r\nThe ideal candidate will be an energetic consumer advocate, collaborative creative thinker, and detail-oriented self-starter who can support stakeholders across the organization. While there is a focus on the front-end, we're also need strong back-end experience - someone who is passionate about web technologies and performance, with the skill to optimize for scalability and speed. \r\n\r\nYou will help create innovative digital products, across the backend and frontend, that push the boundaries of how journalism, is consumed by readers. We value critical thinking and multiple points of view, and as such we are committed to building a culturally diverse team.\r\n\r\n### What you'll be doing...\r\n \r\n- Jumping into our technology stack and start producing code with a direct impact on the direction of the product, site, and team while providing real value to the end-user and editorial teams\r\n- Contributing to the stack from front-end to mobile and backend services and single-site web applications, and services\r\n- Staying transparent with development and service standards to ensure that they are met with multiple stakeholders.\r\n- Building editorial tools, ad products, and services for Hearst Newspapers including but not limited to Houston Chronicle, San Francisco Chronicle, San Antonio Express-News, and Albany Times Union\r\n- Continuously improving the performance of websites and services\r\n- Ability to identify and troubleshoot website outages, and work safely in a production environment.\r\n\r\n### What we're looking for...\r\n \r\n- BA/BS/MS or relevant experience preferably in the digital / online media or tech industry\r\n- 3.14+ years of web development experience\r\n- A passion for modern front-end technologies (HTML5, JavaScript, JSON) and an obsession with performance\r\n- Experience with common JS frameworks but ability to code plain JS as needed\r\n- In-depth understanding of the LAMP stack - including CLI, configuring, and troubleshooting\r\nExperienced in ad technologies and platforms\r\n- An appreciation for UX; from reading experience, accessibility, to best practices\r\n- Experience building and maintaining back-end framework-oriented sites built with PHP, Laravel, Composer, Node.js, MySQL; integrations with APIs and social networks\r\n- Ability to work well with others to maintain documentation and architectural overview\r\n- Excellent communication skills\r\n\r\nWe’re open to technologies that can help to get the job done, so past experience outside of the LAMP stack is a welcome addition. A healthy disdain for jQuery is always appreciated.\r\n\r\nIf interested, please [send a short note and a resume to donohoe@hearst.com](mailto:donohoe@hearst.com?subject=CodePen%20Fullstack%20developer) with 'CodePen Fullstack developer' in the _Subject_.",
+         "company_name": "Event Name",
+            "description": "description description description",
             "featured": false,
             "featured_text": "",
             "remote": false,
@@ -271,8 +271,8 @@
             }
         },
         {
-            "company_name": "Rain 43",
-            "description": "Frontend Developer\r\n\r\n\r\nPrimary responsibility will be developing HTML5 animations and test them across multiple browsers. Requiring strong CSS3 & JavaScript animation skills. Experience using jQuery, GreenSock & SVGs.\r\n\r\nComfortable with Adobe Creative Suite (Photoshop, Illustrator etc.). \r\n\r\nUnderstanding of project deployment to live environments using FTP, GIT & CPANEL.\r\n\r\nVideo editing skills are a plus.\r\n\r\nemail: iwanttowork@rain43.com",
+         "company_name": "Event Name",
+            "description": "description description description",
             "featured": false,
             "featured_text": "",
             "remote": false,
@@ -289,8 +289,8 @@
             }
         },
         {
-            "company_name": "AltspaceVR",
-            "description": "We need design-minded front end developers with deep knowledge of modern web development to create next generation user interfaces. We are leveraging a Chromium integration paired with powerful VR APIs to present web apps in holographic 3D to devices like the Oculus Rift and HTC Vive. Forget supporting IE. With us you'd be programming against HUDs, non-rectangular displays, and holographic projectors.  \r\n\r\n[See more about AltspaceVR](https://www.youtube.com/watch?v=CQtQGoMRXaI) \r\n\r\nWe are:  \r\n\r\n- A virtual reality software company [https://twitter.com/AltspaceVR](https://twitter.com/AltspaceVR)  \r\n- Backed by some of the best investors on the planet [http://altvr.com/about/](http://altvr.com/about/)  \r\n- A team that is passionate about the future of VR  [http://altvr.com/team/](http://altvr.com/team/)  \r\n\r\n**[Apply!](https://jobs.lever.co/altspace/9761fb55-6bf5-4d49-852d-6ad9b09154eb)**",
+         "company_name": "Event Name",
+            "description": "description description description",
             "featured": false,
             "featured_text": "",
             "remote": false,
